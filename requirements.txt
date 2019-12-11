@@ -1,0 +1,6 @@
+wmi
+pywin32 # Required for wmi
+psutil
+listify
+
+pyinstaller # Required for packaging only
